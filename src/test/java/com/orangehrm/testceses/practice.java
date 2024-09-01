@@ -4,5 +4,5 @@ public class practice {
 
 	
 	public static String Fno;
-	public static String cash;
+	public static String cashnew;
 }
